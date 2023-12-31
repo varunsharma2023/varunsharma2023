@@ -1,6 +1,11 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Varun Sharma</h1>
 <h3 align="center">Full stack Web Developer</h3>
+
+<img align="right" alt="coding" width=400 src=  "https://edutechsuvidha.com/wp-content/uploads/2020/09/Website-Development.gif"  alt=linkedin  style="margin-bottom: 5px;" />
+
+
+
 
 - 🔭 I’m currently working on **Mern stack portfolio app**
 
@@ -10,7 +15,8 @@
 
 - 📫 How to reach me **vs1569952@gmail.com**
 
-- ⚡ Fun fact **Don't worry Be happy**
+    *Don't worry Be happy*
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
